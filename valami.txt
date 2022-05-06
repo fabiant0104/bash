@@ -1,0 +1,8 @@
+Hello traveler!
+
+What's your name, traveler?
+
+[A] - Vlagyimir Iljics Lenin      [B] - Josif Visszarionovics Dzsugasvili
+[C] - Kristian Yanoshovich Inansi
+
+Oi ...! Whatcha doin' eh?
